@@ -35,7 +35,7 @@
     <nav class="navbar navbar-expand-sm bg-dark navbar-dark justify-content-center">
         <ul class="navbar-nav">
             <li class="nav-item">
-                <a class="nav-link" href="/inicio">Inicio</a>
+                <a class="nav-link" href="/">Inicio</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="/excursiones">Excursiones</a>
@@ -62,7 +62,7 @@
                 <a href=""><i class="fa fa-twitter fa-lg"></i></a>
                 <a href=""><i class="fa fa-instagram fa-lg"></i></a>
                 <br>
-                <label for="" class="mt-1">© 2020 Copyright:</label>
+                <label for="" class="mt-1">© 2021 Copyright:</label>
                 <label for=""> <a class="" href="">Miquel Campins - Dani Sánchez - Toni Galmés</a></label>
             </div>
         </div>
