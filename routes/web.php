@@ -19,6 +19,9 @@ Route::get('/', function () {
 Route::get('/excursiones', function () {
     return view('excursiones');
 });
+Route::get('/sobrenosotros', function () {
+    return view('sobrenosotros');
+});
 Route::get('/contacto', function () {
     return view('contacto');
 });
