@@ -6,21 +6,21 @@
         <div id="demo" class="carousel slide" data-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img src="fondo1.jpg" class="img-fluid">
+                    <img src="images/fondo1.jpg" class="img-fluid">
                     <div class="carousel-caption" style="color: black;">
                         <h1>Excursiones</h1>
                         <h3>a pie</h3>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img src="fondo2.jpg" class="img-fluid">
+                    <img src="images/fondo2.jpg" class="img-fluid">
                     <div class="carousel-caption">
                         <h1>Excursiones</h1>
                         <h3>en bici</h3>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img src="fondo3.jpg" class="img-fluid">
+                    <img src="images/fondo3.jpg" class="img-fluid">
                     <div class="carousel-caption">
                         <h1>Excursiones</h1>
                         <h3>extremas</h3>
@@ -43,7 +43,7 @@
             </div>
             <div class="row">
                 <div class="col-sm-12 col-md-4">
-                    <a type="button" data-toggle="modal" data-target="#myModal3"><img src="img1.jpg" class="img-fluid"></a>
+                    <a type="button" data-toggle="modal" data-target="#myModal3"><img src="images/img1.jpg" class="img-fluid"></a>
                     <div class="modal fade" id="myModal3">
                         <div class="modal-dialog modal-xl">
                             <div class="modal-content">
@@ -68,7 +68,7 @@
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-4">
-                    <a type="button" data-toggle="modal" data-target="#myModal1"><img src="img2.jpg" class="img-fluid"></a>
+                    <a type="button" data-toggle="modal" data-target="#myModal1"><img src="images/img2.jpg" class="img-fluid"></a>
                     <div class="modal fade" id="myModal1">
                         <div class="modal-dialog modal-xl">
                             <div class="modal-content">
@@ -93,7 +93,7 @@
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-4">
-                    <a type="button" data-toggle="modal" data-target="#myModal2"><img src="img3.jpg" class="img-fluid"></a>
+                    <a type="button" data-toggle="modal" data-target="#myModal2"><img src="images/img3.jpg" class="img-fluid"></a>
                     <div class="modal fade" id="myModal2">
                         <div class="modal-dialog modal-xl">
                             <div class="modal-content">
@@ -120,7 +120,7 @@
             </div>
             <div class="row mt-5">
                 <div class="col-sm-12 col-md-4">
-                    <a type="button" data-toggle="modal" data-target="#myModal4"><img src="img4.jpg" class="img-fluid"></a>
+                    <a type="button" data-toggle="modal" data-target="#myModal4"><img src="images/img4.jpg" class="img-fluid"></a>
                     <div class="modal fade" id="myModal4">
                         <div class="modal-dialog modal-xl">
                             <div class="modal-content">
@@ -145,7 +145,7 @@
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-4">
-                    <a type="button" data-toggle="modal" data-target="#myModal5"><img src="img5.jpg" class="img-fluid"></a>
+                    <a type="button" data-toggle="modal" data-target="#myModal5"><img src="images/img5.jpg" class="img-fluid"></a>
                     <div class="modal fade" id="myModal5">
                         <div class="modal-dialog modal-xl">
                             <div class="modal-content">
@@ -170,7 +170,7 @@
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-4">
-                    <a type="button" data-toggle="modal" data-target="#myModal6"><img src="img6.jpg" class="img-fluid"></a>
+                    <a type="button" data-toggle="modal" data-target="#myModal6"><img src="images/img6.jpg" class="img-fluid"></a>
                     <div class="modal fade" id="myModal6">
                         <div class="modal-dialog modal-xl">
                             <div class="modal-content">
@@ -214,7 +214,7 @@
             </div>
             <div class="row ">
                 <div class="col-sm-12 col-md-6">
-                    <img class="rounded img-fluid" src="ruta.jpg">
+                    <img class="rounded img-fluid" src="images/ruta.jpg">
                 </div>
 
                 <div class="col-sm-12 col-md-6 accordion" id="accordionExample">
