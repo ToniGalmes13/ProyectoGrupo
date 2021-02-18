@@ -32,7 +32,6 @@
 </head>
 
 <body>
-
     <nav class="navbar navbar-expand-sm bg-dark navbar-dark justify-content-center">
         <ul class="navbar-nav">
             <li class="nav-item">
@@ -66,9 +65,7 @@
                 <label for="" class="mt-1">© 2020 Copyright:</label>
                 <label for=""> <a class="" href="">Miquel Campins - Dani Sánchez - Toni Galmés</a></label>
             </div>
-
         </div>
-
     </footer>
 </body>
 
