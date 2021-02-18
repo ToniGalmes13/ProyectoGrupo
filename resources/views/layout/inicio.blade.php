@@ -35,16 +35,16 @@
     <nav class="navbar navbar-expand-sm bg-dark navbar-dark justify-content-center">
         <ul class="navbar-nav">
             <li class="nav-item">
-                <a class="nav-link" href="/">Inicio</a>
+                <a class="nav-link @yield('active1')" href="/">Inicio</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="/excursiones">Excursiones</a>
+                <a class="nav-link @yield('active2')" href="/excursiones">Excursiones</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="/sobrenosotros">Dobre Nosotros</a>
+                <a class="nav-link @yield('active3')" href="/sobrenosotros">Sobre Nosotros</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="/contacto">Contacto</a>
+                <a class="nav-link @yield('active4')" href="/contacto">Contacto</a>
             </li>
         </ul>
     </nav>
@@ -56,8 +56,7 @@
 
     </div>
 
-    <footer class="container bg-dark p-3 mt-1 mb-1 text-center d-flex justify-content-center">
-
+    <footer class="bg-dark text-white p-3 mt-1 text-center d-flex justify-content-center">
         <div class="row">
             <div class="col">
 

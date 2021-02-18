@@ -1,5 +1,9 @@
 @extends('/layout/inicio')
 
+@section('active4')
+    active
+@endsection
+
 @section('container')
 
     <div class="container">

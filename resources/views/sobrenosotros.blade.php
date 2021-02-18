@@ -1,4 +1,8 @@
-@extends('inicio')
+@extends('layout.inicio')
+
+@section('active3')
+    active
+@endsection
 
 @section('container')
 
@@ -15,4 +19,5 @@
         praesentium architecto accusantium similique facilis aliquam sequi, minima ipsam perferendis? Dolore, tempora error
         culpa maxime nam, animi nulla, neque illo quae consequatur magnam. Alias voluptas vitae velit mollitia eaque dicta
         tempore ipsa reiciendis maxime ipsam.</p>
-@endsection</div>
+    </div>
+@endsection

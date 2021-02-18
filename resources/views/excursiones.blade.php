@@ -1,5 +1,9 @@
 @extends('layout.inicio')
 
+@section('active2')
+    active
+@endsection
+
 @section('container')
 
     <div id="section1" class="container-fluid">
