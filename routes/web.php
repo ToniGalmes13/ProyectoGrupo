@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\Controller2;
 
 /*
 |--------------------------------------------------------------------------
@@ -25,3 +26,4 @@ Route::get('/sobrenosotros', function () {
 Route::get('/contacto', function () {
     return view('contacto');
 });
+Route::post('/formForm', [Controller2::class, 'store']);

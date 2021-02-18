@@ -25,5 +25,4 @@
             <input type="submit" class="btn btn-dark" value="Enviar">
         </form>
     </div>
-
 @endsection

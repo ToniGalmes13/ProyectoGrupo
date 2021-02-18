@@ -40,6 +40,8 @@ class Controller2 extends Controller
         $correo = new email($request->all());
 
         Mail::to("proyecto@laravel.com")->send($correo);
+
+        return view("inicio");
     }
 
     /**
