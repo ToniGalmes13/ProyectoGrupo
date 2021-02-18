@@ -41,6 +41,9 @@
                 <a class="nav-link" href="/excursiones">Excursiones</a>
             </li>
             <li class="nav-item">
+                <a class="nav-link" href="/sobrenosotros">Dobre Nosotros</a>
+            </li>
+            <li class="nav-item">
                 <a class="nav-link" href="/contacto">Contacto</a>
             </li>
         </ul>
