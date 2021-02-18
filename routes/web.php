@@ -19,3 +19,6 @@ Route::get('/', function () {
 Route::get('/excursiones', function () {
     return view('excursiones');
 });
+Route::get('/contacto', function () {
+    return view('contacto');
+});
